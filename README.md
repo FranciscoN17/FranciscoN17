@@ -3,7 +3,7 @@
 🎓 **BEng. Telecommunications Engineering**  
 💻 Interested in **Embedded Systems, Networking, AI and Communications**
 
-[![My Skills](https://skillicons.dev/icons?i=python, linux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,linux)](https://skillicons.dev)
 ---
 
 <!--
