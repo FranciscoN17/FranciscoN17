@@ -1,4 +1,9 @@
-## Hi! My name is Francisco Nazário 👋
+# Hi! I'm Francisco Nazário 👋
+
+🎓 **BEng. Telecommunications Engineering**  
+💻 Interested in **Embedded Systems, Networking, AI and Communications**
+
+---
 
 <!--
 **FranciscoN17/FranciscoN17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
